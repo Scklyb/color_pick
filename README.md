@@ -16,3 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/xfhomedream/color_pick/blob/master/1564236994665_450x900.gif)
+
+
+Thanks flyfeng 👍 
+https://github.com/xfmaster

@@ -62,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Column(
         children: <Widget>[
           ListTile(
-            title: Text("色盘选择器"),
+            title: Text("Color Pallet"),
             trailing: Icon(Icons.arrow_forward_ios),
             onTap: () {
               Navigator.of(context).push(MaterialPageRoute(
@@ -71,7 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
           Divider(),
           ListTile(
-            title: Text("色环选择器"),
+            title: Text("Circle Track"),
             trailing: Icon(Icons.arrow_forward_ios),
             onTap: () {  Navigator.of(context).push(MaterialPageRoute(
                 builder: (BuildContext context) => new RingPage()));},

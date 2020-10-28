@@ -18,7 +18,7 @@ class RingPageState extends State<RingPage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text("色环选择器"),
+        title: Text("Circle Track"),
       ),
       body: Center(
           child: Column(

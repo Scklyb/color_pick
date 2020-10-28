@@ -20,7 +20,7 @@ class CirclePageState extends State<CirclePage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text("色盘选择器"),
+        title: Text("Color Pallet"),
       ),
       body: Center(
           child: Column(
