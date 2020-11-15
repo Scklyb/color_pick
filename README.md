@@ -20,3 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Thanks flyfeng 👍 
 https://github.com/xfmaster# colorpick
+# color_pick
